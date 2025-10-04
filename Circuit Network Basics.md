@@ -51,7 +51,7 @@ The resulting circuit network will have 150 concrete and 50 coal
 
 ![Screenshot_20251004_113346](attachments/Screenshot_20251004_113346.png)
 
-Red and green wires, however, and never connected together; even when both connected to the same building.
+Red and green wires, however, are never connected together; even when both connected to the same building.
 
 ![Screenshot_20251004_113844](attachments/Screenshot_20251004_113844.png)
 
