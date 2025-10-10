@@ -75,7 +75,7 @@ When used as an output, it outputs just one signal from the input (the "first" s
 > [!WARNING]
 > First does not correspond to the order shown when viewing the circuit networks, which always sorts the signals by their value in descending order. Instead it seems to be an internal ordering which corresponds to the order seen in Factoriopedia.
 
-When used as an output in combination with an **Each** condition, it instead outputs the first input signal which passed the conditions.
+When used as an output in combination with an **Each** condition, it instead outputs the "first" input signal which passed the conditions.
 
 ![Screenshot_20251009_153318](attachments/Screenshot_20251009_153318.png)
 > Output 1 of the "first" signal > 9
