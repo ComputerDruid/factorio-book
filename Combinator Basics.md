@@ -122,7 +122,7 @@ The selector combinator is somewhat of a grab bag of operations for interacting 
 
 It has 7 modes of operation which each do different things.
 
-## Mode: Select Input
+### Mode: Select Input
 
 Selects one signal from the input network by index after sorting the signals by value.
 
