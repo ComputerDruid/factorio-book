@@ -7,7 +7,7 @@ You create red or green wires by using the buttons on the toolbar:
 
 ![Screenshot_20251004_110403](attachments/Screenshot_20251004_110403.png)
 
-Or their keyboard shortcuts (<kbd>Alt + R</kbd> and <kbd>Alt + G</kbd> , by default)
+Or their keyboard shortcuts (<kbd>Alt + r</kbd> and <kbd>Alt + g</kbd> , by default).
 
 These wires have a limited range, but can be connected to power poles to extend their range:
 

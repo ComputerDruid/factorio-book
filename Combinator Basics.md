@@ -5,7 +5,7 @@ However, the Decider Combinator, the Arithmetic Combinator and the Selector Comb
 
 ![Screenshot_20251009_141616](attachments/Screenshot_20251009_141616.png)
 > [!TIP]
-> Use ALT-mode (by tapping Alt) or hover the mouse over the combinator to see the arrows that mark the input and output sides of the combinator.
+> Use ALT-mode (by tapping <kbd>Alt</kbd>) or hover the mouse over the combinator to see the arrows that mark the input and output sides of the combinator.
 ## Decider Combinator
 
 The decider combinator checks a configured list of **Conditions**, and if they are satisfied, outputs the configured **Outputs**
