@@ -1,5 +1,5 @@
 
-A circuit network is a red or green wire which connects 2 or more buildings:
+A circuit network is a red or green wire which connects two or more buildings:
 
 ![Screenshot_20251004_105857](attachments/Screenshot_20251004_105857.png)
 
