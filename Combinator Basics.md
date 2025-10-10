@@ -122,7 +122,7 @@ The selector combinator is somewhat of a grab bag of operations for interacting 
 
 It has 7 modes of operation which each do different things.
 
-### Mode: Select Input
+### Mode: Select input
 
 Selects one signal from the input network by index after sorting the signals by value.
 
@@ -162,9 +162,9 @@ Useful when trying to compute how many stacks of something you have, but also fo
 
 ![Screenshot_20251009_162918](attachments/Screenshot_20251009_162918.png)
 
-Just like stack size, but for how many of the items would fit on one Space age rocket.
+Just like stack size, but for how many of the items would fit on one Space Age rocket.
 
-### Mode: Quality Filter
+### Mode: Quality filter
 
 ![Screenshot_20251009_163027](attachments/Screenshot_20251009_163027.png)
 
