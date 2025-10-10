@@ -33,7 +33,7 @@ Or by connecting a chest with "Read contents" checked:
 
 ![Screenshot_20251004_111946](attachments/Screenshot_20251004_111946.png)
 
-And it's not just chests, many buildings in Factorio can be connected to the circuit network and have their contents read.
+And it's not just chests, many buildings in Factorio can be connected to the circuit network and have their contents read:
 
 ![Screenshot_20251004_112742](attachments/Screenshot_20251004_112742.png)
 
@@ -57,7 +57,9 @@ Red and green wires, however, are never connected together; even when both conne
 
 This can be handy for routing multiple circuit networks long distances along big power poles, or for connecting a combinator or building to two different networks.
 
-These signals can then be used to control the behavior of buildings which are connected to a circuit network. For example, inserters can be enabled/disabled based on the value of a signal on the network.
+These signals can then be used to control the behavior of buildings which are connected to a circuit network.
+
+For example, inserters can be enabled/disabled based on the value of a signal on the network:
 
 ![Screenshot_20251004_114620](attachments/Screenshot_20251004_114620.png)
 
