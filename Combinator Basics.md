@@ -5,7 +5,7 @@ However, the Decider Combinator, the Arithmetic Combinator and the Selector Comb
 
 ![Screenshot_20251009_141616](attachments/Screenshot_20251009_141616.png)
 > [!TIP]
-> Use ALT-mode (by tapping Alt) or hover the mouse over the combinator to see the arrows that mark the input and output sides of the combinator.
+> Use ALT-mode (by tapping <kbd>Alt</kbd>) or hover the mouse over the combinator to see the arrows that mark the input and output sides of the combinator.
 ## Decider Combinator
 
 The decider combinator checks a configured list of **Conditions**, and if they are satisfied, outputs the configured **Outputs**
@@ -75,7 +75,7 @@ When used as an output, it outputs just one signal from the input (the "first" s
 > [!WARNING]
 > First does not correspond to the order shown when viewing the circuit networks, which always sorts the signals by their value in descending order. Instead it seems to be an internal ordering which corresponds to the order seen in Factoriopedia.
 
-When used as an output in combination with an **Each** condition, it instead outputs the first input signal which passed the conditions.
+When used as an output in combination with an **Each** condition, it instead outputs the "first" input signal which passed the conditions.
 
 ![Screenshot_20251009_153318](attachments/Screenshot_20251009_153318.png)
 > Output 1 of the "first" signal > 9
@@ -122,7 +122,7 @@ The selector combinator is somewhat of a grab bag of operations for interacting 
 
 It has 7 modes of operation which each do different things.
 
-## Mode: Select Input
+### Mode: Select input
 
 Selects one signal from the input network by index after sorting the signals by value.
 
@@ -162,9 +162,9 @@ Useful when trying to compute how many stacks of something you have, but also fo
 
 ![Screenshot_20251009_162918](attachments/Screenshot_20251009_162918.png)
 
-Just like stack size, but for how many of the items would fit on one Space age rocket.
+Just like stack size, but for how many of the items would fit on one Space Age rocket.
 
-### Mode: Quality Filter
+### Mode: Quality filter
 
 ![Screenshot_20251009_163027](attachments/Screenshot_20251009_163027.png)
 
